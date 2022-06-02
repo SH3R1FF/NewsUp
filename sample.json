@@ -1,0 +1,58 @@
+{
+    "status": "ok",
+    "totalResults": 4,
+    "articles": [
+        {
+            "source": {
+                "id": "ars-technica",
+                "name": "Ars Technica"
+            },
+            "author": "Kyle Orland",
+            "title": "Are we on the verge of an 8K resolution breakthrough in gaming?",
+            "description": "Studies show extremely diminishing returns from pushing out even more pixels.",
+            "url": "https://arstechnica.com/gaming/2022/05/does-the-world-really-need-8k-resolution-game-consoles/",
+            "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2022/05/ppl-760x380.jpg",
+            "publishedAt": "2022-05-26T21:00:16+00:00",
+            "content": "Enlarge/ A slide from TV manufacturer TCL guesses at some details for the next micro-generation of high-end game consoles.\r\n113 with 89 posters participating, including story author\r\nWith the 2020 re… [+5406 chars]"
+        },
+        {
+            "source": {
+                "id": "reddit-r-all",
+                "name": "Reddit /r/all"
+            },
+            "author": null,
+            "title": "r/gaming - The return of the king",
+            "description": "27,973 votes and 845 comments so far on Reddit",
+            "url": "https://www.reddit.com/r/gaming/comments/uxvgxa/the_return_of_the_king/",
+            "urlToImage": "https://preview.redd.it/ctyhbi4jvp191.gif?format=png8&s=47021d3b1f96b8a235b0f1ecd36aa678203ad18e",
+            "publishedAt": "2022-05-26T04:37:30.7808938Z",
+            "content": "Played original Call of Duty United Offensive on PC back in the day. Sniper/Bolts Mod. Had a buddy in my clan GoodMeatBadCheese. Was a really great guy. Was on a boat one day going down the river and… [+380 chars]"
+        },
+        {
+            "source": {
+                "id": "ign",
+                "name": "IGN"
+            },
+            "author": "Kevin Lee",
+            "title": "Best Budget Gaming PC 2022 - IGN",
+            "description": "Want to get into PC gaming without spending a fortune? These are the best gaming PCs that give you plenty of power for a reasonable price.",
+            "url": "https://www.ign.com/articles/best-budget-gaming-pc",
+            "urlToImage": "https://assets1.ignimgs.com/2020/07/29/budget-gaming-pc-1596057852331_160w.jpg?width=1280",
+            "publishedAt": "2022-05-23T23:07:14Z",
+            "content": "PC Gaming might seem prohibitively expensive to get into, but budget gaming PCs offer a surprisingly affordable way into the hobby. You dont have to spend a full (or multiple) months salary to afford… [+7384 chars]"
+        },
+        {
+            "source": {
+                "id": "ign",
+                "name": "IGN"
+            },
+            "author": "Michelle Rae Uy",
+            "title": "Best Budget Gaming Headset 2022 - IGN",
+            "description": "You want a sweet gaming headset but only have $50 (or less) to spend? We've got you covered.",
+            "url": "https://www.ign.com/articles/best-budget-gaming-headset",
+            "urlToImage": "https://assets1.ignimgs.com/2019/12/19/budget-gaming-headset-1576740523814_160w.jpg?width=1280",
+            "publishedAt": "2022-05-21T22:13:27Z",
+            "content": "You dont have to get the priciest option for an immersive audio experience when gaming. While getting an Audeze or a premium SteelSeries Arctis is the dream, there are many excellent budget gaming he… [+13102 chars]"
+        }
+    ]
+}
